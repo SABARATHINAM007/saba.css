@@ -1,0 +1,13 @@
+.A{
+    
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQj-3LVj04oeoaO3xp0S7xzxf9AdOyVJgZYQ&s); 
+background-attachment: fixed;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+border: 5px solid rgb(0, 0, 0);
+
+}
+.s{
+    color: rgb(85, 0, 0);
+}
