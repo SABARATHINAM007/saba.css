@@ -1,53 +1,26 @@
 .a{
-    font-size: 50px;
-    position: relative;
-    left: 100px;
-    color: red;
+    height: 800px;
+    width: 800px;
+    border: 1px solid rgb(3, 3, 3);
+    display: flex;
+    align-items: center;
+    justify-self: end;
+    flex-direction:row;
+    flex-wrap: wrap;
 }
-.D{
-    font-size: 50px;
-    position: absolute;
-    top: 500px;
-    left: 1000px;
-}
-.f{
-    font-size: 50px;
-    position: absolute;
-    top: 570px;
-    left: 1020px;
-}
-.g{
-    font-size: 35px;
-    position:absolute;
-    top:630px;
-    left: 1032px;
-}
-.t{
-    font-size:25px ;
-    position: absolute;
-    top: 700px;
-    left: 900px;
-}
-.e{
-   height: 75px;
-   width: 400px;
-    position: absolute;
-    top: 750px;
-    left: 900px;
-}
-.z{
-position: absolute;
-left: 2000px;
-
-
-}
-.q{
-    color: white;
-    font-size: 25px;
-    height: 80px;
+.s{
+    height: 200px;
     width: 200px;
-     position: absolute;
-     top: 750px;
-     left: 1310px;
-     background-color: rgb(255, 0, 0);
+    display: flex;
+    border: 1px solid sandybrown;
+    align-self: center;
+    justify-self: end;
+    flex-direction: column;
+    
+}
+.d{
+    height: 10px;
+    width: 100px;
+    border: 1px solid greenyellow;
+    
 }
